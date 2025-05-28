@@ -1,18 +1,20 @@
 <div align="center">
+<img src="assets/emoji.gif" alt="emoji" width="300">
+<h5>letsgojieun.dev</h5>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letsgojieun)
 [![Website Badge](https://img.shields.io/badge/DEV-website-ffffff?style=for-the-badge&logoColor=black)](https://letsgojieun.dev)
-
-<img src="assets/emoji.gif" alt="emoji" width="300">
 </div>
 
-<h4 color="gray">🎉 Welcome here</h4>
-<h5>
+</div>
+
+</br><h3 color="gray">| Welcome here ✨</h3>
+<span>
 I'm Jieun Go, Front-end developer<br>
 currently living in 📍Queensland, Australia.
-</h5>
+</span>
 
-</br><h4>💬 A little more about me</h4>
+</br><h3>| A little more about me 💬</h3>
 
 ```JS
 const jieun = {
@@ -28,10 +30,9 @@ const jieun = {
 }
 ```
 
-</br><h4>👋🏻 Say Hello!</h4>
-
-<h5>
+</br><h3>| Say Hello 👋🏻</h3>
+<span>
 I enjoy talking with new people about a variety of topics,
 <br>so feel free to reach out to me anytime via
 <a href="mailto:letsgojieun@gmail.com">letsgojieun@gmail.com</a>
-</h5>
+</span>
