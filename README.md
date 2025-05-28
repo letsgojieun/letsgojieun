@@ -1,19 +1,19 @@
-
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letsgojieun)
 [![Website Badge](https://img.shields.io/badge/DEV-website-ffffff?style=for-the-badge&logoColor=black)](https://letsgojieun.dev)
 
+<img src="assets/emoji.gif" alt="emoji" width="300">
 </div>
-</br>
 
-<h6>🎉 Welcome here</h6>
-<h5>I'm Jieun Go, Front-end developer<br>
-currently living in 📍Queensland, Austrailia.
+<h4 color="gray">🎉 Welcome here</h4>
+<h5>
+I'm Jieun Go, Front-end developer<br>
+currently living in 📍Queensland, Australia.
 </h5>
 
+</br><h4>💬 A little more about me</h4>
 
-</br><h6>💬 A little more about me</h6>
 ```JS
 const jieun = {
   pronouns: "she" | "her",
@@ -28,8 +28,10 @@ const jieun = {
 }
 ```
 
-</br><h6>👋🏻 Say Hello!</h6>
+</br><h4>👋🏻 Say Hello!</h4>
+
 <h5>
 I enjoy talking with new people about a variety of topics,
-<br>so feel free to reach out to me anytime via <a href="mailto:letsgojieun@gmail.com">letsgojieun@gmail.com</a>
+<br>so feel free to reach out to me anytime via
+<a href="mailto:letsgojieun@gmail.com">letsgojieun@gmail.com</a>
 </h5>
