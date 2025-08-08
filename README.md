@@ -11,7 +11,7 @@
 </br><h3 color="gray">| Welcome here ✨</h3>
 <span>
 I'm Jieun Go, Front-end developer<br>
-currently living in 📍Queensland, Australia.
+currently living in 📍Australia.
 </span>
 
 </br><h3>| A little more about me 💬</h3>
@@ -22,7 +22,7 @@ const jieun = {
   techStack: {
     languages: [JavaScript, TypeScript, HTML, CSS],
     frameworks_libraries: [React, Next, Expo, Redux, Zustand, Styled-Components, Node],
-    tools: [Supabase]
+    tools: [Supabase, Figma]
   },
   challenge: "Currently taking on the #100DaysOfCode challenge.",
   funFact: "Listening to Rock music 🎸 while coding boosts my focus by twice as much!",
