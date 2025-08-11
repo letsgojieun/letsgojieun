@@ -1,3 +1,3 @@
 <div align="center">
-<img src="assets/readme_main.png" alt="main_img" width="100%">
+<img src="assets/readme.png" alt="main_img" width="100%">
 </div>
